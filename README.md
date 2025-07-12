@@ -18,4 +18,4 @@
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourname) | [Portfolio](https://your-portfolio.com)
+🔗 [LinkedIn](www.linkedin.com/in/praanesh-s-8a0369326) | [Portfolio](https://your-portfolio.com)
