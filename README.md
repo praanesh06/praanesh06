@@ -5,17 +5,16 @@
 
 ## 🧰 Tech Stack
 - 💻 Languages: Python, Java, C, JavaScript
-- 🌐 Frontend: React, HTML, CSS, Tailwind
-- 🛠️ Backend: Node.js, Express, Flask
+- 🌐 Frontend: React, HTML, CSS, Bootstrap
+- 🛠️ Backend: Node.js, Flask
 - 🧠 ML: NumPy, scikit-learn
 - 🗃️ DB: MongoDB, MySQL
 
 ## 📌 Pinned Projects
-- 🔗 [Finance Tracker (MERN)](https://github.com/yourusername/finance-tracker)
-- ✍️ [Digit Recognizer using ML](https://github.com/yourusername/digit-recognizer)
-- 🧠 [DSA Solutions Archive](https://github.com/yourusername/dsa-solutions)
+- 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
+- 🧠 [DSA Solutions Archive](https://github.com/praanesh06/dsa-solutions)
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=praanesh06&show_icons=true&theme=radical)
 
 🔗 [LinkedIn](www.linkedin.com/in/praanesh-s-8a0369326) | [Portfolio](https://your-portfolio.com)
