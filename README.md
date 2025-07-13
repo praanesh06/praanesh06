@@ -12,7 +12,7 @@
 
 ## 📌 Pinned Projects
 - 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
-- 🧠 [DSA Solutions Archive](https://github.com/praanesh06/dsa-solutions)
+- 🧠 [DSA Solutions Archive]([https://github.com/praanesh06/dsa-solutions])
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=praanesh06&show_icons=true&theme=radical)
