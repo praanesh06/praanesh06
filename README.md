@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Praanesh
 
 🎓 B.Tech IT | 📍 Coimbatore Institute of Technology  
-💻 I build full-stack apps and love solving real-world problems using code.
+🧠 Learning: DSA | MERN Stack | Machine Learning  
+📈 Aspiring Software Engineer | Full Stack Developer | AI/ML Enthusiast 
 
 ---
 
@@ -11,7 +12,7 @@
 - 🌐 **Frontend**: React, HTML, CSS, Bootstrap  
 - 🛠️ **Backend**: Node.js, Flask  
 - 🧠 **Machine Learning**: NumPy, scikit-learn  
-- 🗃️ **Databases**: MongoDB, MySQL  
+- 🗃️ **Databases**: MySQL  
 
 ---
 
