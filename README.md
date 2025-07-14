@@ -19,7 +19,7 @@
 ## 📌 Pinned Projects
 
 - 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
-- - 🔗 [TicTacToe Game (React)](https://github.com/praanesh06/TicTacToe)
+- 🔗 [TicTacToe Game (React)](https://github.com/praanesh06/TicTacToe)
 - 🧠 [DSA Solutions Archive](https://github.com/praanesh06/dsa-solution)
 
 ---
