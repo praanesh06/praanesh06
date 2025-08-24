@@ -19,7 +19,6 @@
 ## 📌 Pinned Projects
 
 - 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
-- 🔗 [TicTacToe Game (React)](https://github.com/praanesh06/TicTacToe)
 - 🔗 [Handwritten Digit Recognition using Neural Network (Numpy)](https://github.com/praanesh06/mnist-numpy-nn)
 - 🧠 [DSA Solutions Archive](https://github.com/praanesh06/dsa-solution)
 
@@ -34,4 +33,4 @@
 ## 🌐 Connect with Me
 
 - [📄 LinkedIn](https://www.linkedin.com/in/praanesh-s-8a0369326)
-- [🌍 Portfolio](https://your-portfolio.com) <!-- Replace this with your real portfolio link -->
+<!--- [🌍 Portfolio](https://your-portfolio.com) <!-- Replace this with your real portfolio link -->
